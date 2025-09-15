@@ -88,15 +88,6 @@ Data and scripts are organized for modular adaptation. See code comments and `.i
 
 ***
 
-## Key Files
-
-| File                        | Purpose                         |
-|-----------------------------|---------------------------------|
-| fraud_detection.ipynb/.py    | Main workflow (data prep, ML, GNN, viz) |
-| vertopal.com_OnlinePaymentFraudDetection-1.pdf | Documentation & code walkthrough |
-| new_data.csv                | Transaction dataset             |
-
-***
 
 ## Future Improvements
 
