@@ -29,7 +29,7 @@ This project implements a robust fraud detection pipeline on a large-scale onlin
 | isFlaggedFraud    | Heuristic flag for fraud                   | Integer    |
 
 - **Size:** 83,561 rows, 11 columns
-- **Source:** [Kaggle dataset, see file reference][1]
+
 
 ***
 
